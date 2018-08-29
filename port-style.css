@@ -131,7 +131,7 @@ a:link, a:visited, a:hover, a:active
 /****************************************************/
 .content-container
 {
-	background:  linear-gradient(to bottom, rgb(101, 153, 153,0.85), rgb(247, 90, 86,0.85))  , url('file:///E:/Edwisor/Assignments/3rd%20assignment/277597_web-developer-wallpaper.jpg') fixed;
+	background:  linear-gradient(to bottom, rgb(101, 153, 153,0.85), rgb(247, 90, 86,0.85))  , url('277597_web-developer-wallpaper.jpg') fixed;
     background-size: cover;
     background-position: center center;
     background-color: #fff;
